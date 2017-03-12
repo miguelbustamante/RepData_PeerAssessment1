@@ -7,8 +7,6 @@ output:
       keep_md: true
 ---
 
-#Necesary libraries
-
 ```{r neededlibraries}
 library(dplyr)
 library(ggplot2)
